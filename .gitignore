@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### Zone.Identifier
+*.Zone.Identifier
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
