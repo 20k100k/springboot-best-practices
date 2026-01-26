@@ -15,6 +15,6 @@ class SpringbootBestPracticesApplicationTest {
     }
     @Test
     void test2(){
-        assertEquals(1,1);
+        assertEquals(2,1);
     }
 }
