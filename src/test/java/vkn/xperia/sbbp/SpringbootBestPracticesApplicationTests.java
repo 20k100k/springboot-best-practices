@@ -1,4 +1,4 @@
-package vkn.xperia.sb.bp;
+package vkn.xperia.sbbp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

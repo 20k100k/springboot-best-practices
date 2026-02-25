@@ -1,4 +1,4 @@
-package vkn.xperia.sb.bp;
+package vkn.xperia.sbbp;
 
 import org.springframework.boot.SpringApplication;
 
